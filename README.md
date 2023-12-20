@@ -1,0 +1,2 @@
+# TelerikMultiBlazorApps
+Multi Blazor Apps
